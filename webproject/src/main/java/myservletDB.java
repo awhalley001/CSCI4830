@@ -16,6 +16,7 @@ import javax.servlet.http.HttpServletResponse;
 
 /**
  * Servlet implementation class demo3
+ * dont forget to wind your watch
  */
 @WebServlet("/demo5")
 public class myservletDB extends HttpServlet {
